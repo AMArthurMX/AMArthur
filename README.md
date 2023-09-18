@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMArthurMX
+- 👋 Hi, I’m @AMArthur
 - 👀 I’m interested in ... Full Stack Web Development, Online Presence for local businesses and design (video, audio, web, and much more)
 - 🌱 I’m currently learning ..."The complete 2023 Web Development Bootcamp" with Dr. Angela Yu 
 - 💞️ I’m looking to collaborate on ...any entry level job, freelance or full time to get experience.
